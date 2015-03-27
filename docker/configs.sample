@@ -1,0 +1,6 @@
+#!/bin/bash
+export GITTERBOT_APIKEY=token
+export GITTERBOT_GITTER_ROOM=organization/repo
+export GITTERBOT_IRC_SERVER=irc.freenode.net
+export GITTERBOT_IRC_CHANNEL=#channel
+export GITTERBOT_IRC_NICK=botnickname
