@@ -8,7 +8,7 @@ git clone https://github.com/caktux/gitterbridge
 
 ### Configuration
 
-Copy `config.sample` to `config` and edit to your liking.
+Copy `configs.sample` to `configs` and edit to your liking.
 
 ### Building and running
 
